@@ -40,7 +40,7 @@ Projeto de html e css utilizado para o Curso JavaScript: manipulando o DOM (Docu
 
 ## 📁 Acesso ao projeto
 
-É possível acessar o projeto através do [Link](https://github.com/Thamyresmya/Robotron-2000)
+É possível acessar o projeto através do [Link](https://thamyresmya.github.io/Robotron-2000/)
 
 
 <br>
