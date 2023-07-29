@@ -2,7 +2,7 @@
 | -------------  | --- |
 | :sparkles: Nome        | **Projeto Robotron-2000**
 | :label: Tecnologias | HTML, CSS, JavaScript
-| :rocket: URL         | https://github.com/Thamyresmya
+| :rocket: URL         | https://github.com/Thamyresmya/Robotron-2000
 
 
 ![](img/geral/Capa.png)
@@ -40,7 +40,7 @@ Projeto de html e css utilizado para o Curso JavaScript: manipulando o DOM (Docu
 
 ## 📁 Acesso ao projeto
 
-É possível acessar o projeto através do [Link](https://github.com/)
+É possível acessar o projeto através do [Link](https://github.com/Thamyresmya/Robotron-2000)
 
 
 <br>
